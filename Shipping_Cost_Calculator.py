@@ -1,5 +1,4 @@
- # Here is a new update by hkvenner
- # Here is another update by hkvenner
+ # Here is a new update by Hadiah Venner
  
  # Shipping Cost Calculator
 
